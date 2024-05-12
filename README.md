@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Data Science at DataCamp**
 
-- 👯 I’m looking to collaborate on **D**
 
 - 💬 Ask me about **React, Python, Data Science and Machine Learning**
 
