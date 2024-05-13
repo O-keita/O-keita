@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Data Science at DataCamp**
 
 
-- 💬 Ask me about **React, Python, Data Science and Machine Learning**
+- 💬 Ask me about **Javascript React, Python, Data Science and Machine Learning**
 
 - 📫 How to reach me **omarmusakeita@gmail.com**
 
