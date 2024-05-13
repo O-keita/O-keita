@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=o-keita&theme=tokyonight&show_icons=true&locale=en" alt="o-keita" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=o-keita&them=tokyonight" alt="o-keita" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=o-keita&theme=tokyonight" alt="o-keita" /></p>
