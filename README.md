@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Keita</h1>
 <h3 align="center">Am a FullStack Developer, Data Science and Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=o-keita&label=Profile%20views&color=0e75b6&style=flat" alt="o-keita" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=o-keita&label=Profile%20views&color=0e75b6&style=flat" alt="o-keita" /> </p>
 
 - 🌱 I’m currently learning **Data Science at DataCamp**
 
