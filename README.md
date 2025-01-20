@@ -92,13 +92,13 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o-keita&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="o-keita" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=o-keita&theme=tokyonight" alt="o-keita-streak" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-keita&theme=tokyonight&show_icons=true&locale=en" alt="o-keita" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o-keita&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="o-keita-top-langs" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=o-keita&theme=tokyonight" alt="o-keita" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-keita&theme=tokyonight&show_icons=true&locale=en" alt="o-keita-stats" />
 </p>
