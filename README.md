@@ -82,11 +82,23 @@
 ---
 
 <h3 align="left">🚀 Featured Projects:</h3>
-- **MarAcademy**: Online coding platform for students to learn programming for free  
-- **Fraud Detection**: Building systems for anomaly detection in payment aggregators  
-- **Mini Search Engine**: NLP-based tool to search and rank research documents  
-- **Movie Recommendation System**: Personalized film recommendations using KNN  
-- **Predictive Maintenance**: Machine learning model to optimize equipment uptime  
+<ul>
+  <li>
+    <strong>MarAcademy:</strong> Online coding platform for students to learn programming for free
+  </li>
+  <li>
+    <strong>Fraud Detection:</strong> Building systems for anomaly detection in payment aggregators
+  </li>
+  <li>
+    <strong>Mini Search Engine:</strong> NLP-based tool to search and rank research documents
+  </li>
+  <li>
+    <strong>Movie Recommendation System:</strong> Personalized film recommendations using KNN
+  </li>
+  <li>
+    <strong>Predictive Maintenance:</strong> Machine learning model to optimize equipment uptime
+  </li>
+</ul>
 
 ---
 
