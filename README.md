@@ -101,5 +101,3 @@
 </ul>
 
 ---
-
-Feel free to suggest more improvements or add your latest accomplishments! 😊
